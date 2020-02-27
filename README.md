@@ -1,2 +1,2 @@
-# teoriaDosGrafos
-estudos a respeito de teoria dos grafos
+# Teoria dos Grafos
+Estudos a respeito de teoria dos grafos
