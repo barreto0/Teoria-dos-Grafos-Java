@@ -1,0 +1,2 @@
+Objetivo desse trabalho era criar um programa que se assemelha-se ao aplicativo tinder, mas com o diferencial que ao invés de procurar pessoas para encontros o usuário procuraria por profissionais para realizar trabalhos, como marceneiros, mecanicos, médicos etc.
+O programa deveria ser capaz de gerar a menor rota entre a posicao geografica do usuário e a posiçao geográfica dos profissionais (pode escolher mais de um), já que o usuário buscaria todos os profissionais de carro.  
